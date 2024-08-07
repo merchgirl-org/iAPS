@@ -1944,7 +1944,7 @@ Enact a temp Basal or a temp target */
 "Toggle it off in" = "Toggle it off in";
 
 /* Picker selection. Turn off CGM smoothing in ... */
-"Two days" = "24 hours";
+"Two days" = "Two days";
 
 /* Picker selection. Never turn off the CGM smoothing */
 "Never" = "Never";
